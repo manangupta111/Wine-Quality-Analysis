@@ -4,10 +4,10 @@ Problem Definition:
 A wine dataset is provided. The task is to analyze data and build a regression model to predict the quality of the wine.
 
 Methodology
-Description of data
-Preprocess data
-Visualize data
-Build a Regression model
-Check Regression Assumptions
-Goodness of fit
-Compare different Regression methods
+1.Description of data
+2.Preprocess data
+3.Visualize data
+4.Build a Regression model
+5.Check Regression Assumptions
+6.Goodness of fit
+7.Compare different Regression methods
